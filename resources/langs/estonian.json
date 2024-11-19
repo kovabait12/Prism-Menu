@@ -1,22 +1,22 @@
 [
     {
         "§ Global": {
-            "name": "§ Global"
+            "name": "§ Globaalne"
         }
     },
     {
         "¬ Player": {
-            "name": "¬ Player"
+            "name": "¬ Mängija"
         }
     },
     {
         "ª Bypass": {
-            "name": "ª Bypass"
+            "name": "ª Möödumine"
         }
     },
     {
         "« Creator": {
-            "name": "« Creator"
+            "name": "« Looja"
         }
     },
     {
@@ -26,18 +26,18 @@
     },
     {
         "··· Misc": {
-            "name": "··· Misc"
+            "name": "··· Muu"
         }
     },
     {
         "¶ Settings": {
-            "name": "¶ Settings"
+            "name": "¶ Sätted"
         }
     },
 
     {
         "Prism Menu by Firee": {
-            "name": "Prism Menu by Firee"
+            "name": "Prism Menu Firee poolt"
         }
     },
 
@@ -45,81 +45,81 @@
 
     {
         "Anticheat Bypass": {
-            "name": "Anticheat Bypass",
-            "desc": "Disables all anticheats. [Levels, Editor, etc]"
+            "name": "Anticheatist Möödumine",
+            "desc": "Lülitab välja kõik anticheatid. [Levelid, Looja, Muu]"
         }
     },
     {
         "Practice Music": {
-            "name": "Practice Music",
-            "desc": "Enables Practice Music even if it's locked."
+            "name": "Harjutamise Muusika",
+            "desc": "Lülitab sisse harjutamise muusika, isegi kui see on lukus."
         }
     },
     {
         "Safe Mode": {
-            "name": "Safe Mode",
-            "desc": "Pauses any progress from being done on the level."
+            "name": "Turvaline režiim",
+            "desc": "Paneb levelis edusammud pausile"
         }
     },
     {
         "Accurate Percentage": {
-            "name": "Accurate Percentage",
-            "desc": "Allows for decimals in the level percentage. [Beyond thousandths place]"
+            "name": "Täpne protsent",
+            "desc": "Lubab komakohad leveli protsentides. [Üle tuhandike kohtade]"
         }
     },
     {
         "Layout Mode": {
-            "name": "Layout Mode",
-            "desc": "Removes all decoration associated with a level."
+            "name": "Paigutuse režiim",
+            "desc": "Eemaldab leveliga seotud dekoratsioonid"
         }
     },
     {
         "No Transition": {
-            "name": "No Transition",
-            "desc": "Shorterns scene transition time to 0s."
+            "name": "Pole tõlget",
+            "desc": "Lühendab stseeni animatsiooni 0s peale"
         }
     },
     {
         "Cheat Indicator": {
-            "name": "Cheat Indicator",
-            "desc": "Shows an icon to tell whether or not you are using mods that may be considered cheating!"
+            "name": "Sohitegemise indikaator",
+            "desc": "Näitab ikooni, et teatada, kas kasutad sohitegemise alla kuulivaid modifikatsioone!"
         }
     },
     {
         "Speedhack": {
-            "name": "Speedhack",
-            "desc": "Changes the speed of the game and audio."
+            "name": "Kiirusehäkk",
+            "desc": "Muudab mängu ja heli kiirust."
         }
     },
     {
         "FPS Bypass": {
-            "name": "FPS Bypass",
-            "desc": "Unlocks your FPS to be higher than 60 or your monitor's refresh rate."
+            "name": "FPS vabastamine",
+            "desc": "Lubab FPS-il olla kõrgem, kui teie monitori värskendussagedus."
         }
     },
     {
         "Reset Speedhack": {
-            "name": "Reset Speedhack",
-            "desc": "Resets speedhack back to normal."
+            "name": "Taasta kiirusehäkk",
+            "desc": "Taastab kiirusehäki normaalse peale."
         }
     },
 
     {
         "Noclip": {
-            "name": "Noclip",
-            "desc": "Makes the player invincible."
+            "name": "Pole tabamusi",
+            "desc": "Muudab mängija surematuks."
         }
     },
     {
         "No Spikes": {
-            "name": "No Spikes",
-            "desc": "Ignores spike objects."
+            "name": "Pole okkaid",
+            "desc": "Ignoreerib okka objekte."
         }
     },
     {
         "No Hitbox": {
-            "name": "No Hitbox",
-            "desc": "Disables all object hitboxes. Special objects are disabled."
+            "name": "Pole tabamuskasti",
+            "desc": "Eemaldab kõikide objektide tabamuskastid. Erilised objektid on väljas."
         }
     },
     {
