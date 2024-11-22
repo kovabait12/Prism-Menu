@@ -178,8 +178,8 @@
     },
     {
         "Gravity Value": {
-            "name": "Gravitatsiooni Tugevus",
-            "desc": "Gravitatsiooni väärtus, kuhu see peaks seatud olema."
+            "name": "Gravitatsiooni Väärtus",
+            "desc": "Seab gravitatsiooni väärtuse."
         }
     },
 
@@ -297,120 +297,120 @@
     {
         "No Progress Bar": {
             "name": "Pole Eduriba",
-            "desc": "Eemaldab edurea! Protsendid on ikka näidatud."
+            "desc": "Eemaldab eduriba! Protsendid on ikka näidatud."
         }
     },
     {
         "Progress Bar Position": {
-            "name": "Progress Bar Position",
-            "desc": "Sets the position of the progress bar."
+            "name": "Edurea Asukoht",
+            "desc": "Seab eduriba asukoha."
         }
     },
     {
         "Hide Attempts": {
-            "name": "Hide Attempts",
-            "desc": "Whether or not the attempt label should be shown when playing a level."
+            "name": "Peida Katsed",
+            "desc": "Kas katsete lugeja peaks leveli mängimisel olema nähtav või mitte."
         }
     },
     {
         "Attempt Opacity": {
-            "name": "Attempt Opacity",
-            "desc": "Determines how opaque the attempt label should be."
+            "name": "Katsete Läbipaistvus",
+            "desc": "Seab katsete lugeja läbipaistvuse."
         }
     },
 
     {
         "Menu Opacity": {
-            "name": "Menu Opacity",
-            "desc": "Determines how opaque the menu should be."
+            "name": "Menüü Läbipaistvus",
+            "desc": "Seab menüü läbipaistvuse."
         }
     },
     {
         "Theme": {
-            "name": "Theme",
-            "desc": "Select the UI theme for Prism Menu!"
+            "name": "Teema",
+            "desc": "Vali UI teema Prism Menu jaoks!"
         }
     },
     {
         "Import Theme": {
-            "name": "Import Theme",
-            "desc": "Imports a theme! [JSON file]"
+            "name": "Impordi Tema",
+            "desc": "Impordib a teema! [JSON fail]"
         }
     },
     {
         "Live Theme Editing": {
-            "name": "Live Theme Editing",
-            "desc": "This will allow you to edit your custom theme while seeing changes on screen! (Warning: This may cause a memory leak.)"
+            "name": "Otse teema muutmine",
+            "desc": "See lubab muuta teie kohandatud teemat ja näha muutuseid ekraanil! (Hoiatus: See võib mälulekke põhjustada.)"
         }
     },
     {
         "Show Tooltips": {
-            "name": "Show Tooltips",
-            "desc": "Whether or not tooltips should be shown when hovering over mods."
+            "name": "Näita vihjeid",
+            "desc": "Näitab või mitte vihjeid modide peal hõljudes."
         }
     },
     {
         "Show Button": {
-            "name": "Show Button",
-            "desc": "Shows the button to activate the menu. It's recommended to keep this enabled for Android."
+            "name": "Näita Nuppu",
+            "desc": "Näitab nuppu menüü aktiveerimiseks. See on soovitatud Androidi jaoks."
         }
     },
     {
         "Button Position X": {
-            "name": "Button Position X",
-            "desc": "The X position for the button to open the menu."
+            "name": "Nupu X Asukoht",
+            "desc": "Menüü avamis nupu X asukoht."
         }
     },
     {
         "Button Position Y": {
-            "name": "Button Position Y",
-            "desc": "The Y position for the button to open the menu."
+            "name": "Nupu Y asukoht",
+            "desc": "Menüü avamis nupu Y asukoht."
         }
     },
     {
         "Language": {
-            "name": "Language",
-            "desc": "Sets the language for Prism Menu!"
+            "name": "Keel",
+            "desc": "Seab Prism Menu keele!"
         }
     },
     {
         "Restore Defaults": {
-            "name": "Restore Defaults",
-            "desc": "Disables all mods and resets everything to default."
+            "name": "Taasta vaikeseaded",
+            "desc": "Lülitab välja kõik modid ja taastab kõik vaikeseadetele."
         }
     },
     {
         "Credits": {
-            "name": "Credits",
-            "desc": "People who have helped with the mod!"
+            "name": "Tiitrid",
+            "desc": "Inimesed, kes on mod'iga aidanud!"
         }
     },
     {
         "Thank you to Electrify (ES), Jouca (FR), dank_meme01, savvacorgi, МегаСвятой (RU), Gazonk (BR), huhnmitferrari (DE), and Ignis (CS) for translations!": {
-            "name": "Thank you to Electrify (ES), Jouca (FR), dank_meme01, savvacorgi, МегаСвятой (RU), Gazonk (BR), huhnmitferrari (DE), and Ignis (CS) for translations!"
+            "name": "Aitäh Electrify (ES), Jouca (FR), dank_meme01, savvacorgi, МегаСвятой (RU), Gazonk (BR), huhnmitferrari (DE), and Ignis (CS) tõlgete eest!"
         }
     },
     {
         "And thank you for using the mod! I hope you enjoy using Prism Menu!": {
-            "name": "And thank you for using the mod! I hope you enjoy using Prism Menu!"
+            "name": "Ja aitäh teid mod'i kasutamast! Loodan, et naudid Prism Menu kasutamist!"
         }
     },
     {
         "Close Popup": {
-            "name": "Close Popup"
+            "name": "Sule Hüpikaken"
         }
     },
     {
         "Menu Scale": {
-            "name": "Menu Scale",
-            "desc": "Decides how big the text and buttons should be. (Will require restarting the game)"
+            "name": "Menüü Skaala",
+            "desc": "Seab teksti ja nuppude suuruse. (Nõuab mängu restarti)"
         }
     },
 
     {
         "Show Hidden Objects": {
-            "name": "Show Hidden Objects",
-            "desc": "Shows all hidden objects. This will reset the objects primary color. This will not work on objects with the \"Hide\" attribute. (Useful with Layout Mode)"
+            "name": "Näita Peidetud Objekte",
+            "desc": "Näitab kõiki peidetud objekte. Taastab objektide algvärvi. See ei tööta objektidel, millel on \"Hide\" atribuut. (Kasulik paigutuse režiimis)"
         }
     },
     {
