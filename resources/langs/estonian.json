@@ -148,63 +148,63 @@
     },
     {
         "Freeze Player": {
-            "name": "Freeze Player",
-            "desc": "Freezes player movement."
+            "name": "Külmuta Mängija",
+            "desc": "Külmutab mängija liikumise."
         }
     },
     {
         "Jump Hack": {
-            "name": "Jump Hack",
-            "desc": "Allows for jumping in mid-air."
+            "name": "Hüppehäkk",
+            "desc": "Lubab hüpata õhus."
         }
     },
     {
         "Instant Complete": {
-            "name": "Instant Complete",
-            "desc": "Instantly completes the level. (Do not enable in the Editor)"
+            "name": "Kohene Lõpetamine",
+            "desc": "Koheselt lõpetab leveli. (Ära kasuta leveli muutjas.)"
         }
     },
     {
         "Force Platformer Mode": {
-            "name": "Force Platformer Mode",
-            "desc": "Forces you to be in platformer mode when playing a level."
+            "name": "Sunni Platvormeri Režiim",
+            "desc": "Suunib teid platvormeri režiimi levelit mängides."
         }
     },
     {
         "Change Gravity": {
-            "name": "Change Gravity",
-            "desc": "Allows you to change gravity when jumping or falling."
+            "name": "Muuda Gravitatsiooni",
+            "desc": "Lubab gravitatsiooni muuta hüpates või kukkudes."
         }
     },
     {
         "Gravity Value": {
-            "name": "Gravity Value",
-            "desc": "The value the gravity should be set to."
+            "name": "Gravitatsiooni Tugevus",
+            "desc": "Gravitatsiooni väärtus, kuhu see peaks seatud olema."
         }
     },
 
     {
         "Icon Bypass": {
-            "name": "Icon Bypass",
-            "desc": "Unlocks all icons."
+            "name": "Ikoonidest Möödumine",
+            "desc": "Avab kõik ikoonid."
         }
     },
     {
         "Text Length": {
-            "name": "Text Length",
-            "desc": "Allows for unlimited text length in text inputs."
+            "name": "Tekstipikkus",
+            "desc": "Lubab tekstiväljadesse lõputult teksti lisada."
         }
     },
     {
         "Character Filter": {
-            "name": "Character Filter",
-            "desc": "Lets you input any character in all text inputs."
+            "name": "Sümboli Filter",
+            "desc": "Lubab sisestada igat sümbolit igasse tekstivälja."
         }
     },
     {
         "Slider Limit": {
-            "name": "Slider Limit",
-            "desc": "Lets sliders be dragged beyond the visible limit."
+            "name": "Liuguri piirang",
+            "desc": "Lubab liugureid nähtavast piirist edasi libistada."
         }
     },
     {
