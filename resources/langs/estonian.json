@@ -124,20 +124,20 @@
     },
     {
         "No Solids": {
-            "name": "No Solids",
-            "desc": "Disables most solid hitboxes. Special objects still work."
+            "name": "Pole tahkeid",
+            "desc": "Keelab kõik tahked tabamuskastid. Erilised objektid ikka töötavad."
         }
     },
     {
         "Everything Hurts": {
-            "name": "Everything Hurts",
-            "desc": "Owie."
+            "name": "Kõik valutab",
+            "desc": "Aih."
         }
     },
     {
         "No Mirror Transition": {
-            "name": "No Mirror Transition",
-            "desc": "Prevents the screen from being flipped upon a mirror portal."
+            "name": "Pole peegli üleminekut",
+            "desc": "Takistab ekraani from being flipped upon a mirror portal."
         }
     },
     {
