@@ -446,19 +446,19 @@
     {
         "No Trail": {
             "name": "Pole Rada",
-            "desc": "Keelab kõik mängija sabaeffektid."
+            "desc": "Keelab kõik mängija rajaeffektid."
         }
     },
     {
         "No Wave Trail": {
             "name": "Pole Laine Rada",
-            "desc": "Peidab laine taga oleva saba."
+            "desc": "Peidab Laine taga oleva raja."
         }
     },
     {
         "Solid Wave Trail": {
             "name": "Kindel Laine Rada",
-            "desc": "Eemaldab mõlema ikooni värvi segunemise laine tagusel rajal."
+            "desc": "Eemaldab mõlema ikooni värvi segunemise Laine tagusel rajal."
         }
     },
 
@@ -483,128 +483,128 @@
     {
         "Disable Camera Effects": {
             "name": "Keela Kaamera Effektid",
-            "desc": "Disables any camera effects, and only focuses the camera on the player. This might break all gamemodes except Cube and Robot."
+            "desc": "Keelab iga kaamera effekti ja fookustab kaamera mängija peale. See võib kõik mängurežiimid katki teha peale Kuubiku ja Roboti."
         }
     },
     {
         "Show Hitboxes": {
-            "name": "Show Hitboxes",
-            "desc": "Show player, obstacle, and solid hitboxes."
+            "name": "Näita tabamuskaste",
+            "desc": "Näita mängija, takistuse ja tahke tabamuskastid."
         }
     },
     {
         "Show Hitboxes on Death": {
-            "name": "Show Hitboxes on Death",
-            "desc": "Shows hitboxes when you die, and hides them when you respawn."
+            "name": "Näita Surmal Tabamuskaste",
+            "desc": "Näitab tabamuskaste, kui sured ja peidab need uuesti tekkides."
         }
     },
     {
         "Hitbox Stroke": {
-            "name": "Hitbox Stroke",
-            "desc": "Stroke 'width' when drawing hitboxes."
+            "name": "Tabamuskast Äär",
+            "desc": "Ääre 'laius' tabamuskaste näidates."
         }
     },
     {
         "Suicide": {
-            "name": "Suicide",
-            "desc": "Kills the player repeatedly."
+            "name": "Enesetapp",
+            "desc": "Tapab mängija korduvalt."
         }
     },
 
     {
         "TPS Bypass": {
-            "name": "TPS Bypass",
-            "desc": "Changes the \"Physics FPS\" of the game to be higher or lower than the default. (240)"
+            "name": "TPS Möödumine",
+            "desc": "Muudab mängu \"Physics FPS\" kõrgemaks või madalamaks vaikeseadest. (240)"
         }
     },
     {
         "Macro": {
-            "name": "Macro",
-            "desc": "Select a macro to record or play!"
+            "name": "Makro",
+            "desc": "Vali makro, mida salvestada või mängida!"
         }
     },
     {
         "Record": {
-            "name": "Record",
-            "desc": "Records the gameplay to be played back. (This will reset the current inputs if you play a level and have a macro selected.)"
+            "name": "Salvesta",
+            "desc": "Salvestab mängu uuest mängimiseks. (Se taastab praegused sisestused, kui mängid ja makro on valitud.)"
         }
     },
     {
         "Playback": {
-            "name": "Playback",
-            "desc": "Plays back the macro."
+            "name": "Esita",
+            "desc": "Esitab makro."
         }
     },
     {
         "Macro Editor": {
-            "name": "Macro Editor",
-            "desc": "Enter the macro editor. (Will not work properly with Record enabled)"
+            "name": "Makro Muutja",
+            "desc": "Sisene makro muutjasse. (Ei tööta õigesti, kui salvestamine on sees)"
         }
     },
     {
         "Frame Fix": {
-            "name": "Frame Fix",
-            "desc": "Records the players every movement, including position when recording and playing back a macro. Do note that this option will increase the file size of the macro while recording."
+            "name": "Kaadri Parandus",
+            "desc": "Salvestab mängija iga liigutuse, kaasa arvatud salvestades ja esitades makrot. Pane tähele, et see valik suurendab salvestades makro faili suurust."
         }
     },
     {
         "Fixed FPS": {
-            "name": "Fixed FPS",
-            "desc": "Locks the frames to the target framerate of the macro. This may look like the \"smooth fix\" option is enabled if the game is lagging."
+            "name": "Fikseritud FPS",
+            "desc": "Lukustab kaadrisageduse makro kaadrisageduse sihtmärgiks. See võib välja näha nagu \"smooth fix\" oleks sees, kui mäng hakib."
         }
     },
     {
         "Import Macro": {
-            "name": "Import Macro",
-            "desc": "Imports a macro."
+            "name": "Impordi Makro",
+            "desc": "Impordib makro."
         }
     },
     {
         "Save Macro": {
-            "name": "Save Macro",
-            "desc": "Saves the macro."
+            "name": "Salvesta Makro",
+            "desc": "Salvestab makro."
         }
     },
     {
         "No Pulse": {
-            "name": "No Pulse",
-            "desc": "Disables orbs and other related objects from pulsing on the music."
+            "name": "Pole Pulssi",
+            "desc": "Keelab orbide ja muude seotud objektide pulsseerimise muusikale."
         }
     },
     {
         "Noclip Flash": {
-            "name": "Noclip Flash",
-            "desc": "Flashes the whole screen red instead of showing a label for your noclip accuracy."
+            "name": "Pole Tabamusi Välgatus",
+            "desc": "Välgatab terve ekraani punaseks pole tabamusi täpsuse protsendi asemel."
         }
     },
     {
         "Instant Respawn": {
-            "name": "Instant Respawn",
-            "desc": "Removes the delay when re-attempting the level."
+            "name": "Kohene Tagasiteke",
+            "desc": "Eemaldab viivituse leveli uude katsesse minemisel."
         }
     },
     {
         "No Death Effect": {
-            "name": "No Death Effect",
-            "desc": "Removes explosion particles when a player dies."
+            "name": "Pole Surmaeffekti",
+            "desc": "Eemaldab plahvatuse tükid, kui mängija sureb."
         }
     },
     {
         "No Wave Pulse": {
-            "name": "No Wave Pulse",
-            "desc": "Prevents the wave from pulsing to the beat of the music."
+            "name": "Pole Laine Pulssi",
+            "desc": "Keelab Laine pulsseerimise muusikale."
         }
     },
     {
         "Wave Pulse Size": {
-            "name": "Wave Pulse Size",
-            "desc": "How big the pulse should be for the wave."
+            "name": "Laine Pulsisuurus",
+            "desc": "Seab Laine pulsisuuruse."
         }
     },
     {
         "Auto Safe Mode": {
-            "name": "Auto Safe Mode",
-            "desc": "Prevents any progress from being made if certain cheats are enabled."
+            "name": "Automaatne Turvaline Režiim",
+            "desc": "Eemaldab edusammud, kui mõned häkid on sees."
         }
     },
     {
