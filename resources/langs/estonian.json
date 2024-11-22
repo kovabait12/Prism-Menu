@@ -57,31 +57,31 @@
     },
     {
         "Safe Mode": {
-            "name": "Turvaline režiim",
+            "name": "Turvaline Režiim",
             "desc": "Paneb levelis edusammud pausile"
         }
     },
     {
         "Accurate Percentage": {
-            "name": "Täpne protsent",
+            "name": "Täpne Protsent",
             "desc": "Lubab komakohad leveli protsentides. [Üle tuhandike kohtade]"
         }
     },
     {
         "Layout Mode": {
-            "name": "Paigutuse režiim",
+            "name": "Paigutuse Režiim",
             "desc": "Eemaldab leveliga seotud dekoratsioonid"
         }
     },
     {
         "No Transition": {
-            "name": "Pole üleminekut",
+            "name": "Pole Üleminekut",
             "desc": "Lühendab stseeni animatsiooni 0s peale"
         }
     },
     {
         "Cheat Indicator": {
-            "name": "Sohitegemise indikaator",
+            "name": "Sohitegemise Indikaator",
             "desc": "Näitab ikooni, et teatada, kas kasutad sohitegemise alla kuulivaid modifikatsioone!"
         }
     },
@@ -93,38 +93,38 @@
     },
     {
         "FPS Bypass": {
-            "name": "FPS vabastamine",
+            "name": "FPS Vabastamine",
             "desc": "Lubab FPS-il olla kõrgem, kui teie monitori värskendussagedus."
         }
     },
     {
         "Reset Speedhack": {
-            "name": "Taasta kiirusehäkk",
+            "name": "Taasta Kiirusehäkk",
             "desc": "Taastab kiirusehäki normaalse peale."
         }
     },
 
     {
         "Noclip": {
-            "name": "Pole tabamusi",
+            "name": "Pole Tabamusi",
             "desc": "Muudab mängija surematuks."
         }
     },
     {
         "No Spikes": {
-            "name": "Pole okkaid",
+            "name": "Pole Okkaid",
             "desc": "Ignoreerib okka objekte."
         }
     },
     {
         "No Hitbox": {
-            "name": "Pole tabamuskasti",
+            "name": "Pole Tabamuskasti",
             "desc": "Eemaldab kõikide objektide tabamuskastid. Erilised objektid on väljas."
         }
     },
     {
         "No Solids": {
-            "name": "Pole tahkeid",
+            "name": "Pole Tahkust",
             "desc": "Keelab kõik tahked tabamuskastid. Erilised objektid ikka töötavad."
         }
     },
@@ -415,74 +415,74 @@
     },
     {
         "Transparent BG": {
-            "name": "Transparent BG",
-            "desc": "Automatically reverts colors changed in the background to be their original color."
+            "name": "Läbipaistev Taust",
+            "desc": "Automaatselt seab tausta värvi selle originaalvärviks."
         }
     },
     {
         "Speedhack Audio": {
-            "name": "Speedhack Audio",
-            "desc": "Whether or not to also change the audio speed based on the speedhack value."
+            "name": "Kiirusehäki Heli",
+            "desc": "Seab või mitte heli kiiruse kiirusehäkiga samaks."
         }
     },
     {
         "No Glow": {
-            "name": "No Glow",
-            "desc": "Disables glow on all objects."
+            "name": "Pole Helendust",
+            "desc": "Keelab kõikidel objektidel helendamise."
         }
     },
     {
         "Noclip Accuracy": {
-            "name": "Noclip Accuracy",
-            "desc": "Informs you how accurate your noclip run is."
+            "name": "Pole Tabamusi Täpsus",
+            "desc": "Informeerib teid teie tabamusteta katse täpsusega."
         }
     },
     {
         "Show Graphic Options": {
-            "name": "Show Graphic Options",
-            "desc": "Shows you Geometry Dash's graphic options! Useful for Android as the option is normally not available."
+            "name": "Näita Graafikasätteid",
+            "desc": "Näitab Geometry Dash'i graafikasätteid! Kasulik Android'il, sest see valik pole tavaliselt saadaval."
         }
     },
     {
         "No Trail": {
-            "name": "No Trail",
-            "desc": "Disables any trail effect from the player."
+            "name": "Pole Rada",
+            "desc": "Keelab kõik mängija sabaeffektid."
         }
     },
     {
         "No Wave Trail": {
-            "name": "No Wave Trail",
-            "desc": "Disables the trail behind the wave."
+            "name": "Pole Laine Rada",
+            "desc": "Peidab laine taga oleva saba."
         }
     },
     {
         "Solid Wave Trail": {
-            "name": "Solid Wave Trail",
-            "desc": "Removes the blending of both icon colors on the wave trail."
+            "name": "Kindel Laine Rada",
+            "desc": "Eemaldab mõlema ikooni värvi segunemise laine tagusel rajal."
         }
     },
 
     {
         "Extra Percent Digits": {
-            "name": "Extra Percent Digits",
-            "desc": "Number of extra decimal digits to be displayed with Accurate Percentage."
+            "name": "Lisa Protsendi Komakohad",
+            "desc": "Lisab täpsele protsendile lisa komakohti."
         }
     },
     {
         "Uncomplete Level": {
-            "name": "Uncomplete Level",
-            "desc": "Resets normal and practice percentages, and allows you to decrease your star count if you completed the level!"
+            "name": "Taasta Level",
+            "desc": "Taastab tavalise ja harjutuse edu ja lubab teil vähendada tähtede arvu, kui lõpetasite leveli!"
         }
     },
     {
         "No Shaders": {
-            "name": "No Shaders",
-            "desc": "Disables all camera shader effects."
+            "name": "Pole varjendid",
+            "desc": "Keelab kõik kaamera varjendid."
         }
     },
     {
         "Disable Camera Effects": {
-            "name": "Disable Camera Effects",
+            "name": "Keela Kaamera Effektid",
             "desc": "Disables any camera effects, and only focuses the camera on the player. This might break all gamemodes except Cube and Robot."
         }
     },
