@@ -245,59 +245,59 @@
     },
     {
         "Backup Stars Limit": {
-            "name": "Backup Stars Limit",
-            "desc": "Lets you backup data, even with less than 10 stars."
+            "name": "Varunduse Tähtede Piirang",
+            "desc": "Lubab andmed varundada isegi siis, kui teil on vähem kui 10 tähte."
         }
     },
 
 
     {
         "Level Edit": {
-            "name": "Level Edit",
-            "desc": "Lets you edit any level, access the editor through the pause menu. (UNSTABLE)"
+            "name": "Leveli Muutmine",
+            "desc": "Lubab muuta igat levelit, ava muutja pausimenüüst. (EBASTABIILNE)"
         }
     },
     {
         "Verify Hack": {
-            "name": "Verify Hack",
-            "desc": "Lets you upload unverified levels. Will automatically set levels to be verified."
+            "name": "Kontrollimishäkk",
+            "desc": "Lubab üles laadida kontrollimatta levelit. Automaatselt seab leveli kontrollituks."
         }
     },
     {
         "Copy Hack": {
-            "name": "Copy Hack",
-            "desc": "Lets you copy any level, without a password."
+            "name": "Kopeerimishäkk",
+            "desc": "Lubab kopeerida igat levelit paroolita."
         }
     },
     {
         "No (C) Mark": {
-            "name": "No (C) Mark",
-            "desc": "Removes the (C) mark when uploading copied levels. Will automatically set levels to be original."
+            "name": "Pole (C) Märki",
+            "desc": "Eemaldab (C) märgi kopeeritud levelitelt. Automatselt seab leveli originaaliks."
         }
     },
     {
         "Hide Testmode": {
-            "name": "Hide Testmode",
-            "desc": "Hides the 'Testmode' text when playing with a startpos."
+            "name": "Peida Testirežiim",
+            "desc": "Peidab 'Testmode' teksti, kui mängid startpos'iga."
         }
     },
     {
         "Rotation Hack": {
-            "name": "Rotation Hack",
-            "desc": "Allows you to rotate any object. Only works locally."
+            "name": "Pööramishäkk",
+            "desc": "Lubab pöörata igat objekti. Töötab ainult kohalikult."
         }
     },
     {
         "Default Song Bypass": {
-            "name": "Default Song Bypass",
-            "desc": "Lets you use hidden default songs in the editor."
+            "name": "Vaikimisi Pala Möödumine",
+            "desc": "Lubab kasutada peidetud vaikimisi palasid muutjas."
         }
     },
 
     {
         "No Progress Bar": {
-            "name": "No Progress Bar",
-            "desc": "Removes the progress bar! The precentage will still be shown."
+            "name": "Pole Eduriba",
+            "desc": "Eemaldab edurea! Protsendid on ikka näidatud."
         }
     },
     {
