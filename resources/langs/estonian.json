@@ -209,38 +209,38 @@
     },
     {
         "Main Levels": {
-            "name": "Main Levels",
-            "desc": "Unlocks locked demon levels."
+            "name": "Põhilevelid",
+            "desc": "Avab lukustatud deemonlevelid."
         }
     },
     {
         "Guard Vault": {
-            "name": "Guard Vault",
-            "desc": "Unlocks the guard's vault."
+            "name": "Kaitsja Laegas",
+            "desc": "Avab kaitsja laeka."
         }
     },
     {
         "Keymaster Vault": {
-            "name": "Keymaster Vault",
-            "desc": "Unlocks the keymaster's vault."
+            "name": "Võtmemeistri Laegas",
+            "desc": "Avab võtmemeistri laeka."
         }
     },
     {
         "Treasure Room": {
-            "name": "Treasure Room",
-            "desc": "Unlocks the treasure room."
+            "name": "Aarde Ruum",
+            "desc": "Avab aarde ruumi."
         }
     },
     {
         "Free Shop Items": {
-            "name": "Free Shop Items",
-            "desc": "Allows all shop items to be bought for 0 mana orbs."
+            "name": "Tasuta poe esemed",
+            "desc": "Lubab kõiki poe esemeid osta 0 mana orbi eest."
         }
     },
     {
         "Gatekeeper Vault": {
-            "name": "Gatekeeper Vault",
-            "desc": "Unlocks the Gatekeeper's vault."
+            "name": "Väravavahi Laegas",
+            "desc": "Avab väravavahi laeka."
         }
     },
     {
