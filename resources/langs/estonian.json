@@ -75,7 +75,7 @@
     },
     {
         "No Transition": {
-            "name": "Pole tõlget",
+            "name": "Pole üleminekut",
             "desc": "Lühendab stseeni animatsiooni 0s peale"
         }
     },
@@ -136,14 +136,14 @@
     },
     {
         "No Mirror Transition": {
-            "name": "Pole peegli üleminekut",
-            "desc": "Takistab ekraani from being flipped upon a mirror portal."
+            "name": "Pole Peegli Üleminekut",
+            "desc": "Takistab ekraani peegeldamast, kui sisened peegliportaali."
         }
     },
     {
         "Instant Mirror Portal": {
-            "name": "Instant Mirror Portal",
-            "desc": "Reverse portal now instantly switches."
+            "name": "Kohene Peegliportaal",
+            "desc": "Peegliportaal peegeldab koheselt."
         }
     },
     {
