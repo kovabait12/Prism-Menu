@@ -604,62 +604,62 @@
     {
         "Auto Safe Mode": {
             "name": "Automaatne Turvaline Režiim",
-            "desc": "Eemaldab edusammud, kui mõned häkid on sees."
+            "desc": "Paneb edusammud pausile, kui kindlad häkid on sees."
         }
     },
     {
         "Custom Object Bypass": {
-            "name": "Custom Object Bypass",
-            "desc": "Allows you to go beyond the 1000 object limit for custom objects."
+            "name": "Kohandatud Objektidest Möödumine",
+            "desc": "Lubab teil mööduda 1000 kohandatud objekti piirist."
         }
     },
     {
         "Menu Keybind": {
-            "name": "Menu Keybind",
-            "desc": "The keybind for opening the Prism Menu UI!"
+            "name": "Menüü Kiirklahv",
+            "desc": "Kiirklahv Prism Menu UI avamiseks!"
         }
     },
     {
         "Hide Level": {
-            "name": "Hide Level",
-            "desc": "Hides all objects in the level."
+            "name": "Peida Level",
+            "desc": "Peidab kõik objektid levelis."
         }
     },
     {
         "Hide Player": {
-            "name": "Hide Player",
-            "desc": "Hides the player. (Requires playing the level again)"
+            "name": "Peida Mängija",
+            "desc": "Peidab mängija. (Vajab leveli uuesti mängimist)"
         }
     },
     {
         "No Rotate": {
-            "name": "No Rotate",
-            "desc": "Freezes the player from rotating when jumping, or falling."
+            "name": "Pole Pöörlemist",
+            "desc": "Peatab mängija pöörlemise hüpates või kukkudes."
         }
     },
 
     {
         "Low FPS Pause": {
-            "name": "Low FPS Pause",
-            "desc": "Automatically pauses the game when FPS drops to a specific value."
+            "name": "Madalal FPS'il Paus",
+            "desc": "Automaatselt paneb mängu pausile, kui FPS langeb täpsustatud väärtuseni."
         }
     },
     {
         "Pause below FPS": {
-            "name": "Pause below FPS",
-            "desc": "The minimum FPS before the game automatically pauses."
+            "name": "Paus allpool FPS'i",
+            "desc": "Miinimum FPS enne, kui mäng pausile pannakse."
         }
     },
     {
         "Auto Clicker": {
-            "name": "Auto Clicker",
-            "desc": "Automatically clicks for you."
+            "name": "Automaat Klikker",
+            "desc": "Automaatselt klikib teie eest."
         }
     },
     {
         "Clicks per second": {
-            "name": "Clicks per second",
-            "desc": "The amount of times the auto clicker should click every second."
+            "name": "Klikid sekundis",
+            "desc": "Mitu klikki peaks automaat klikker sekundis tegema."
         }
     }
 ]
